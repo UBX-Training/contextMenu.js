@@ -1,0 +1,9 @@
+{
+	"name": "contextMenu.js",
+	"version": "1.4.0",
+	"description": "contextMenu.js is a plugin to create windows like context menu with keyboard interaction, different type of inputs ,trigger events and much more.",
+	"devDependencies": {
+	},
+	"dependencies": {
+	}
+}
